@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cname\ ccity
+comment0.target=College(java.lang.String,\ java.lang.String)
+comment1.params=x\ y\ z
+comment1.target=int\ addDepartment(java.lang.String,\ int,\ Faculty)
+comment2.params=n\ st\ c
+comment2.target=int\ addstudent(java.lang.String,\ Student,\ int)
+comment3.params=u\ p\ uf
+comment3.target=boolean\ upgradeFaculty(java.lang.String,\ Faculty,\ int)
+comment4.params=sn
+comment4.target=int\ getstatecount(java.lang.String)
+numComments=5

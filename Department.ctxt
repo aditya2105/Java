@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=dname\ cap\ hod
+comment0.target=Department(java.lang.String,\ int,\ Faculty)
+comment1.params=
+comment1.target=java.lang.String\ getdepartment()
+numComments=2
